@@ -23,7 +23,7 @@
     "connect": "^3.6.6",
     "cors": "^2.8.4",
     "event-stream": "3.3.4",
-    "faye-websocket": "0.11.x",
+    "faye-websocket": "0.11.4",
     "http-auth": "3.1.x",
     "http-proxy": "^1.16.2",
     "morgan": "^1.9.1",
